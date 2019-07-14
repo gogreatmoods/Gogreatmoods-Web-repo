@@ -1,8 +1,3 @@
-<?php
-	session_start();
-	ob_start();
-?>
-
 <!DOCTYPE HTML>
 <head>
 	<title>GreatMoods Homepage</title>
